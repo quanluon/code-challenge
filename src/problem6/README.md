@@ -1,5 +1,7 @@
 # Scoreboard API Module Specification
 
+> **Note**: For detailed execution flow diagrams, see [`FLOW_DIAGRAM.md`](./FLOW_DIAGRAM.md)
+
 ## Overview
 
 This module provides a secure, real-time scoreboard API service that manages user scores and maintains a live-updating top 10 leaderboard. The system handles score updates, validates user actions, and broadcasts changes to connected clients.
